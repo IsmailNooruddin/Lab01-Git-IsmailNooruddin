@@ -4,6 +4,7 @@
 main:
     #int a = 5;
     li x20, 5
+    
     # int b = 0 + 0;
     add x21, x0, x0
     # a = b + 32;
