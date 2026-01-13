@@ -10,5 +10,6 @@ main:
     sw x11, 0(x6)   # part b
     lhu x12, 0(x5)  # part c
     lh x13, 0(x6)   # part d
+    lb x14, 0(x6)   # part e
 end:
     j end
